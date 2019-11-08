@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Purpose 
+
+This project shows an example of passing a component as props. This is shown with the Buttons component to the MockMenu. This could be 
+expanded to have many more buttons that you can reference from the single Buttons component.
+
 ## Available Scripts
 
 In the project directory, you can run:
